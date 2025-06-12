@@ -17,7 +17,7 @@ Assignment 1 – DES in CBC Mode (Python)
 
 Tested with plaintext files and printed intermediate steps for clarity
 
-Assignment 2 – RSA Algorithm (Java)
+Assignment 2 – RSA Algorithm (Java) (Main,RSA,encryptedRSA.txt,message.txt,decryptedRSA) 
 * Implemented RSA from scratch using BigInteger for key generation and modular math
 
 Key features:
